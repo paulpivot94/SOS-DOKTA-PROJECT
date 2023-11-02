@@ -45,7 +45,7 @@ et bien plus encore.
 - Sélectionnez le type de rendez-vous (en ligne/à la clinique)
 - Appliquer des codes de réduction pour une réduction
 - Ajoutez de l'argent au portefeuille avec la passerelle de paiement prise en charge
-- Passerelles de paiement multiples : PayPal, Stripe, Razorpay, Flutterwave, Paystack
+- Passerelles de paiement multiples : MTN MoMo, ORANGE Money
 - Vérifier les détails du rendez-vous
 - Rendez-vous QR (À montrer à la clinique)
 - Gestion avancée du statut des rendez-vous
@@ -64,6 +64,7 @@ et bien plus encore.
 - Soumettre la demande de retrait d'argent à la banque (à traiter par l'administrateur)
 - Plusieurs langues prises en charge
 - RTL pris en charge
+- Localisation des services d'urgences avec Assistance Google map et calcule du trajet
 - FAQ
 - Et bien plus encore…
 
