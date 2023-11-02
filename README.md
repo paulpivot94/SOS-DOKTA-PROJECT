@@ -26,7 +26,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 L'application SOS DOCTA est une plateforme très efficace pour prendre rendez-vous et gérer les rendez-vous des médecins.
 
-Elle offre de nombreuses fonctionnalités et fonctions avancées telles que plusieurs passerelles de paiement, plusieurs langues locales, chat et réunion vidéo avec des médecins, notifications push, système de gestion de rendez-vous avancé, codes QR pour rendez-vous, rendez-vous précédents, ordonnances, ajout des membres de la famille et bien plus encore.
+Elle offre de nombreuses fonctionnalités et fonctions avancées telles que plusieurs passerelles de paiement, plusieurs langues locales, chat et réunion vidéo avec des médecins, notifications push, système de gestion de rendez-vous avancé, codes QR pour rendez-vous, rendez-vous précédents, ordonnances, ajout des membres de la famille, Localisation des services d'urgences a proximite, SOS alert, 
+et bien plus encore.
 
 
 ## Fonctionnalités de l'application patient 
