@@ -14,6 +14,31 @@ src="" width="400"></a></p>
 L'application SOS DOCKITA est une plateforme pratique facilitant la prise de rendez-vous et la gestion des horaires des médecins. Parmi ses fonctionnalités, on retrouve la prise en charge de plusieurs modes de paiement, la communication par chat et vidéo avec les médecins, les rappels de rendez-vous, un système de gestion des rendez-vous, l'utilisation de codes QR pour simplifier les prises de rendez-vous, la consultation de l'historique des rendez-vous, la création d'ordonnances, la gestion des membres de la famille, la localisation des services d'urgence à proximité, ainsi qu'un système d'alerte SOS.
 
 
+## Usages des applications SOS DOCKITA
+
+L'application SOS DOCTA peut être utilisée dans diverses situations et dans le but de fournir une assistance médicale rapide et efficace. Voici quelques situations et objectifs d'utilisation typiques pour cette application en esperant que ce ne sont plus que des fonctionnalites parcequ'elles peuvent parfois ressembler a ca:
+
+- Urgence Médicale : Les utilisateurs peuvent utiliser l'application lorsqu'ils sont confrontés à une urgence médicale, telle qu'une crise cardiaque, un accident de la route, un malaise, etc. L'objectif est de solliciter une assistance médicale immédiate.
+
+- Alerte Médicale Préventive : Les patients atteints de maladies chroniques, comme le diabète, peuvent utiliser l'application pour envoyer une alerte préventive en cas de complications potentielles. Par exemple, si leur taux de sucre dans le sang atteint un niveau critique.
+
+- Consultation Médicale à Distance : L'application peut être utilisée pour obtenir des conseils médicaux à distance, notamment pour des problèmes de santé mineurs. Cela évite aux patients de se rendre physiquement dans un établissement médical.
+
+- Sécurité Personnelle : En plus des situations médicales, l'application peut être utilisée pour des situations de sécurité personnelle, telles que le signalement d'agressions, de harcèlement ou d'autres menaces pour la sécurité personnelle.
+
+- Gestion des Médicaments : Les utilisateurs peuvent utiliser l'application pour gérer leurs médicaments. Elle peut envoyer des rappels pour prendre des médicaments à des heures spécifiques.
+
+- Partage de Dossiers Médicaux : Les patients peuvent partager leurs dossiers médicaux avec les médecins et les professionnels de la santé, améliorant ainsi la précision des diagnostics.
+
+- Gestion des Rendez-vous Médicaux : Les utilisateurs peuvent prendre des rendez-vous médicaux via l'application et recevoir des rappels pour ne pas manquer leurs rendez-vous.
+
+- Conseils de Santé Générale : L'application peut fournir des conseils de santé générale, tels que des informations sur la prévention de maladies, la nutrition, l'exercice, etc.
+
+- SOS en Cas de Catastrophe : En cas de catastrophe naturelle ou d'autres situations d'urgence, les utilisateurs peuvent envoyer un SOS pour obtenir de l'aide et informer leurs proches de leur sécurité.
+
+L'objectif principal de l'application SOS DOCTA est de fournir une assistance médicale rapide, de sauver des vies et d'améliorer l'accès aux soins de santé. Elle peut également être utilisée pour améliorer la sécurité personnelle et la gestion de la santé au quotidien.
+
+
 ## Fonctionnalités de l'application patient 
 
 - connectez-vous avec votre numéro de téléphone avec vérification OTP
@@ -96,33 +121,8 @@ Notifications push
 - Systeme de paiement propre a SOS DOCTA avec plein d'avantage
 - des secretaires en ligne et disponibles 24/24h et 7/7j
 
-## Usages des applications SOS DOCKITA
 
-Les applications SOS DOCKITA, sont conçues pour répondre rapidement à des situations d'urgence médicale et offrir des fonctionnalités essentielles pour les utilisateurs. Voici quelques usages typiques des applications SOS DOCKITA :
 
-- Appel d'Urgence Médicale : Les utilisateurs peuvent appeler rapidement les services médicaux d'urgence, tels que les ambulances, en appuyant sur un bouton. Cela est essentiel pour obtenir de l'aide rapidement en cas d'urgence médicale.
-
-- Partage de Position : L'application peut permettre aux utilisateurs de partager leur position en temps réel avec les services d'urgence, de sorte que les secouristes puissent les localiser facilement.
-
-- Consultation à Distance : Les utilisateurs peuvent éventuellement consulter un médecin à distance via des services de télémédecine, ce qui peut être précieux pour obtenir des conseils médicaux en situation d'urgence.
-
-- Signalement de Problèmes de Santé : Les utilisateurs peuvent signaler des problèmes de santé spécifiques via l'application, ce qui peut aider les professionnels de la santé à mieux comprendre la situation avant d'arriver sur les lieux.
-
-- Historique Médical : L'application peut stocker l'historique médical de l'utilisateur, y compris les allergies, les antécédents médicaux, les médicaments pris, etc. Cela est important pour les premiers intervenants.
-
-- SOS Alerte : En plus des services d'urgence médicale, les utilisateurs peuvent déclencher des alertes SOS pour des situations de sécurité personnelles. Cela peut inclure le signalement d'agressions, de vols, etc.
-
-- Notifications aux Proches : L'application peut informer les proches de l'utilisateur en cas d'urgence. Cela peut être essentiel pour rassurer les proches et obtenir leur soutien.
-
-- Conseils de Sécurité : L'application peut fournir des conseils de sécurité généraux aux utilisateurs, tels que les procédures à suivre en cas d'incendie, de tremblement de terre, etc.
-
-- Accès aux Informations Médicales : Les utilisateurs peuvent avoir accès à des informations médicales, notamment des vidéos, des guides et des instructions, pour gérer des situations médicales courantes.
-
-- Notifications d'Actualités Médicales : L'application peut informer les utilisateurs des dernières actualités médicales et des alertes épidémiologiques importantes.
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
