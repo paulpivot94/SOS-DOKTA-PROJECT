@@ -96,9 +96,29 @@ Notifications push
 - Systeme de paiement propre a SOS DOCTA avec plein d'avantage
 - des secretaires en ligne et disponibles 24/24h et 7/7j
 
-## Code of Conduct
+## Usages des applications SOS DOCKITA
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Les applications SOS DOCKITA, sont conçues pour répondre rapidement à des situations d'urgence médicale et offrir des fonctionnalités essentielles pour les utilisateurs. Voici quelques usages typiques des applications SOS DOCKITA :
+
+- Appel d'Urgence Médicale : Les utilisateurs peuvent appeler rapidement les services médicaux d'urgence, tels que les ambulances, en appuyant sur un bouton. Cela est essentiel pour obtenir de l'aide rapidement en cas d'urgence médicale.
+
+- Partage de Position : L'application peut permettre aux utilisateurs de partager leur position en temps réel avec les services d'urgence, de sorte que les secouristes puissent les localiser facilement.
+
+- Consultation à Distance : Les utilisateurs peuvent éventuellement consulter un médecin à distance via des services de télémédecine, ce qui peut être précieux pour obtenir des conseils médicaux en situation d'urgence.
+
+- Signalement de Problèmes de Santé : Les utilisateurs peuvent signaler des problèmes de santé spécifiques via l'application, ce qui peut aider les professionnels de la santé à mieux comprendre la situation avant d'arriver sur les lieux.
+
+- Historique Médical : L'application peut stocker l'historique médical de l'utilisateur, y compris les allergies, les antécédents médicaux, les médicaments pris, etc. Cela est important pour les premiers intervenants.
+
+- SOS Alerte : En plus des services d'urgence médicale, les utilisateurs peuvent déclencher des alertes SOS pour des situations de sécurité personnelles. Cela peut inclure le signalement d'agressions, de vols, etc.
+
+- Notifications aux Proches : L'application peut informer les proches de l'utilisateur en cas d'urgence. Cela peut être essentiel pour rassurer les proches et obtenir leur soutien.
+
+- Conseils de Sécurité : L'application peut fournir des conseils de sécurité généraux aux utilisateurs, tels que les procédures à suivre en cas d'incendie, de tremblement de terre, etc.
+
+- Accès aux Informations Médicales : Les utilisateurs peuvent avoir accès à des informations médicales, notamment des vidéos, des guides et des instructions, pour gérer des situations médicales courantes.
+
+- Notifications d'Actualités Médicales : L'application peut informer les utilisateurs des dernières actualités médicales et des alertes épidémiologiques importantes.
 
 ## Security Vulnerabilities
 
