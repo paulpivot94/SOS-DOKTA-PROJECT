@@ -1,5 +1,5 @@
 SOS DOCTA | SOS DOCKITA | SOS DOKTA | ...<p align="center"><a href="https://laravel.com" target="_blank"><img 
-src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+src="" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -8,26 +8,11 @@ src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## A propos de SOS DOCTA
 
-L'application SOS DOCTA est une plateforme très efficace pour prendre rendez-vous et gérer les rendez-vous des médecins.
-
-Elle offre de nombreuses fonctionnalités et fonctions avancées telles que plusieurs passerelles de paiement, plusieurs langues locales, chat et réunion vidéo avec des médecins, notifications push, système de gestion de rendez-vous avancé, codes QR pour rendez-vous, rendez-vous précédents, ordonnances, ajout des membres de la famille, Localisation des services d'urgences a proximite, SOS alert, 
-et bien plus encore.
+L'application SOS DOCKITA est une plateforme pratique facilitant la prise de rendez-vous et la gestion des horaires des médecins. Parmi ses fonctionnalités, on retrouve la prise en charge de plusieurs modes de paiement, la communication par chat et vidéo avec les médecins, les rappels de rendez-vous, un système de gestion des rendez-vous, l'utilisation de codes QR pour simplifier les prises de rendez-vous, la consultation de l'historique des rendez-vous, la création d'ordonnances, la gestion des membres de la famille, la localisation des services d'urgence à proximité, ainsi qu'un système d'alerte SOS.
 
 
 ## Fonctionnalités de l'application patient 
