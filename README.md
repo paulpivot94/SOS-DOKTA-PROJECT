@@ -105,6 +105,8 @@ Notifications push
 - Rapports de gains par mois et graphique : Gain total, Total des commandes
 - Soumettez la demande de retrait pour le paiement au min. seuil atteint
 - Vérifier l'état des retraits
+- suggestion des specialite par des medecins lors de l'inscription
+- Consultation en clinique ou a domicile
 - Et bien plus encore…..
 
 ## Fonctionnalités de l'application générales
